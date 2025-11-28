@@ -74,7 +74,7 @@ CH*.md
 .env.production.local
 *.env
 .envrc
-.streamlit/secrets.toml
+.streamlit/
 # IDEs
 .idea/
 .vscode/
